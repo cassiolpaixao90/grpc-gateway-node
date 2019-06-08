@@ -59,6 +59,9 @@ typings/
 
 # next.js build output
 .next
+<<<<<<< HEAD
 
 # intellij
 .idea
+=======
+>>>>>>> 4a66bdc9320c14aaf1c8663b4c4499b31373123e
